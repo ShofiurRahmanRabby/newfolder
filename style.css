@@ -43,3 +43,14 @@
     font-size: 55px;
     font-weight: bold;
 }
+.pera{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: rgb(12, 177, 61);
+    color: white;
+    border: none;
+}
