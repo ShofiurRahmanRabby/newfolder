@@ -65,3 +65,30 @@
     text-align: center;
     padding: 10PX;
 }
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: rgb(219, 24, 24);
+}
+.icon{
+    width: 100px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-rgb{
+    padding: 5px;
+}
+.servis{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
